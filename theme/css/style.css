@@ -112,7 +112,6 @@ section,
 summary {
 	display: block;
 }
-
 audio,
 canvas,
 progress,
@@ -26423,7 +26422,7 @@ html .page .offset-top-185 {
 	margin-top: 20px;
 }
 
-.quote-classic-boxed-2:before {
+/* .quote-classic-boxed-2:before {
 	top: 50px;
 	right: 15px;
 	left: auto;
@@ -26435,7 +26434,7 @@ html .page .offset-top-185 {
 	content: "";
 	-webkit-transform: none;
 	transform: none;
-}
+} */
 
 .quote-classic-boxed-2 a:hover .text-darker {
 	transition: 0.35s all ease;
